@@ -1,1 +1,15 @@
-This is the Readme file for my Github repository, Numerical Methods.
+This repository contains programming work I did as part of an online course in Numerical Methods.
+All programs are commented in Python.
+
+Exercise 1 plots a graph of Sin versus Cosine
+Exercise 2 plots a value for height and velocity of a falling object, using the forward Euler method
+Exercise 3 plots a perfect circular orbit of a satellite
+Exercise 4 plots the ballistic trajectories of a given amount of projectiles
+Exercise 5 plots the trajectory of a spaceship around a massive planet
+Exercise 6 plots the error of a given numerical scheme versus the size of the timesteps used
+Exercise 7 plots the error of Heun's method versus the size of the timesteps used
+Exercise 8 plots an elliptical orbit around a massive body, using adaptive step sizes
+Exercise 9 plots the energy of the system of a suboptimal solver
+Exercise 10 plots the energy of the system when a symplectic method is used
+Exercise 11 shows the orbit of a satellite and the way in which the orbit changes due to a boost
+
